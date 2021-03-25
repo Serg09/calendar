@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* `https://blog.eduonix.com/web-programming-tutorials/learn-create-ruby-on-rails-calendar/`
+
 * Ruby version
 
 * System dependencies
@@ -22,3 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
